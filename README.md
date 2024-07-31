@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello everyone! 👋
+
+- 🌱 I am Data Science student, interested on Data Science, Data Engineering and Devops. 
+- 🌱 I am currently on forth semester on Data Science undergraduate at UNIVESP 
 
 <!--
 **DataEng81/DataEng81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
